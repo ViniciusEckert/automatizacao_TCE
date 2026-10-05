@@ -1,0 +1,32 @@
+{
+  "municipio_id": "868",
+  "municipio": "CAFEZAL DO SUL",
+  "entidade_id": "12223",
+  "entidade": "MUNICÍPIO DE CAFEZAL DO SUL",
+  "ano": 2024,
+  "receita_corrente_liquida": 35517215.86,
+  "receita_corrente_liquida_ajustada": 32900699.5,
+  "despesa_total_pessoal": 14464640.57,
+  "percentual_oficial": 43.96,
+  "percentual_calculado": 43.9645,
+  "classificacao": "normal",
+  "limites": {
+    "alerta": 48.6,
+    "prudencial": 51.3,
+    "maximo": 54.0
+  },
+  "rcl_relatorio_rreo": 35517215.86,
+  "diferenca_validacao_rcl": 0.0,
+  "fonte_receita": "RREO - Demonstrativo da Receita Corrente Líquida",
+  "fonte_pessoal": "RGF - Demonstrativo da Despesa com Pessoal",
+  "coletado_em": "2026-08-25T07:18:08-03:00",
+  "fundeb": {
+    "receitas_recebidas": 3586720.18,
+    "resultado_liquido_transferencias": -1794286.45,
+    "fonte": "RREO - Manutenção e Desenvolvimento do Ensino (MDE)",
+    "periodo": "6º Bimestre",
+    "percentual_aplicacao_mde": null
+  },
+  "evolucao": null,
+  "avisos": []
+}

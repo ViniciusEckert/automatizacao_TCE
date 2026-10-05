@@ -1,0 +1,54 @@
+[
+  {
+    "municipio": "curitiba",
+    "url": "https://mid-transparencia.curitiba.pr.gov.br/funcionarios/ano_2026_tabelas_salariais_20260204.pdf",
+    "arquivo": "curitiba.pdf",
+    "bytes": 4704059,
+    "sha256": "5311d0e811b912f63dcc849d4340574c64bc271031a20ba952aa02ceb2d558ac",
+    "consulta": "2026-09-07",
+    "status": "documento obtido; vigência e carreira exigem conferência"
+  },
+  {
+    "municipio": "londrina",
+    "url": "https://repositorio.londrina.pr.gov.br/index.php/recursos-humanos/leis/11531/68709-2025-anexo-iii-lei-11531/file",
+    "arquivo": "londrina.pdf",
+    "bytes": 611635,
+    "sha256": "a2c3ed72fcb8a0889d22cfba59da4a3857f3787853e013ca999bc9bcec6711ee",
+    "consulta": "2026-09-07",
+    "status": "documento obtido; vigência e carreira exigem conferência"
+  },
+  {
+    "municipio": "maringa",
+    "url": "https://transparencia.maringa.pr.gov.br/portaltransparencia/1/publicacoes/4383",
+    "arquivo": "maringa.html",
+    "bytes": 2922,
+    "sha256": "494724f1d732ce654c3e89894d56ece653a42f690161eb40b0f6732babdc0575",
+    "consulta": "2026-09-07",
+    "status": "página obtida; não equivale a tabela extraída"
+  },
+  {
+    "municipio": "ponta-grossa",
+    "url": "https://rh.pontagrossa.pr.gov.br/estatisticas/salarios",
+    "arquivo": "ponta-grossa.html",
+    "bytes": 534181,
+    "sha256": "513d31f928456f8a0c681c0c6096b942b41552d49004759ab36c5726efdf3972",
+    "consulta": "2026-09-07",
+    "status": "página obtida; não equivale a tabela extraída"
+  },
+  {
+    "municipio": "siqueira-campos",
+    "url": "https://www.siqueiracampos.pr.gov.br/diario-oficial-eletronico/download/933",
+    "consulta": "2026-09-07",
+    "status": "não obtido",
+    "erro": "HTTP Error 403: Forbidden"
+  },
+  {
+    "municipio": "cafezal",
+    "url": "https://www.cafezaldosul.pr.gov.br/index.php?novo_cliente=12145&pagina=20&sessao=b054603368xsb0",
+    "arquivo": "cafezal.html",
+    "bytes": 87529,
+    "sha256": "92b23a437f41b2e81e43322558e0098ba2cf67687388c7b483a66a0d1800f218",
+    "consulta": "2026-09-07",
+    "status": "página obtida; não equivale a tabela extraída"
+  }
+]

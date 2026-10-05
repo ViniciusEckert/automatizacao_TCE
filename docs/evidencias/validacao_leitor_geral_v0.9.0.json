@@ -1,0 +1,45 @@
+{
+  "testes": 155,
+  "excel": [
+    {
+      "arquivo": "araucaria09-1.xlsx",
+      "formulas_recalculadas": 651,
+      "erros": [],
+      "abas": [
+        "Comparação salarial",
+        "Parâmetros",
+        "Dados originais",
+        "Fontes e premissas"
+      ]
+    },
+    {
+      "arquivo": "araucaria09-2.xlsx",
+      "formulas_recalculadas": 542,
+      "erros": [],
+      "abas": [
+        "Comparação salarial",
+        "Parâmetros",
+        "Dados originais",
+        "Fontes e premissas"
+      ]
+    },
+    {
+      "arquivo": "araucaria09-3.xlsx",
+      "formulas_recalculadas": 651,
+      "erros": [],
+      "abas": [
+        "Comparação salarial",
+        "Parâmetros",
+        "Dados originais",
+        "Fontes e premissas"
+      ]
+    }
+  ],
+  "ambiente": "Linux Python 3.12; LibreOffice; Tesseract eng",
+  "nao_verificado": [
+    "Windows",
+    "Microsoft Excel",
+    "navegador",
+    "TCE ao vivo"
+  ]
+}

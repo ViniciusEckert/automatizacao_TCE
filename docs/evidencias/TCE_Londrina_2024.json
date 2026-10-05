@@ -1,0 +1,32 @@
+{
+  "municipio_id": "2761",
+  "municipio": "LONDRINA",
+  "entidade_id": "12367",
+  "entidade": "MUNICÍPIO DE LONDRINA",
+  "ano": 2024,
+  "receita_corrente_liquida": 3058397847.7,
+  "receita_corrente_liquida_ajustada": 3012781541.28,
+  "despesa_total_pessoal": 1341895717.35,
+  "percentual_oficial": 44.54,
+  "percentual_calculado": 44.5401,
+  "classificacao": "normal",
+  "limites": {
+    "alerta": 48.6,
+    "prudencial": 51.3,
+    "maximo": 54.0
+  },
+  "rcl_relatorio_rreo": 3058397847.7,
+  "diferenca_validacao_rcl": 0.0,
+  "fonte_receita": "RREO - Demonstrativo da Receita Corrente Líquida",
+  "fonte_pessoal": "RGF - Demonstrativo da Despesa com Pessoal",
+  "coletado_em": "2026-08-25T07:18:39-03:00",
+  "fundeb": {
+    "receitas_recebidas": 334487956.04,
+    "resultado_liquido_transferencias": 200307310.81,
+    "fonte": "RREO - Manutenção e Desenvolvimento do Ensino (MDE)",
+    "periodo": "6º Bimestre",
+    "percentual_aplicacao_mde": null
+  },
+  "evolucao": null,
+  "avisos": []
+}

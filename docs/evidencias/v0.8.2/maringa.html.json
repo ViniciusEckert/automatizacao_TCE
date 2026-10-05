@@ -1,0 +1,11 @@
+{
+  "arquivo": "maringa.html",
+  "candidatos": [],
+  "texto_extraido": "",
+  "texto_truncado": false,
+  "pendencias": [
+    "A página não contém matriz salarial reconhecida. Se for catálogo de leis/publicações, envie o anexo com os vencimentos.",
+    "Nenhuma tabela foi estruturada automaticamente. O texto disponível pode ser transcrito na grade ou no CSV; PDF imagem exige OCR."
+  ],
+  "revisao_obrigatoria": true
+}

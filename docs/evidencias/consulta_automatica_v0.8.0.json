@@ -1,0 +1,19 @@
+{
+  "status": 200,
+  "duracao_segundos": 77.91,
+  "pedido": {
+    "municipio_id": "1467",
+    "periodo": "ultimo"
+  },
+  "avisos": [],
+  "coletado_em": "2026-09-08T06:43:31-03:00",
+  "exemplo": false,
+  "periodo": "2025",
+  "titulo": "CRUZEIRO DO SUL",
+  "nome_arquivo": "analise-cruzeiro_do_sul-financeiro-2025.xlsx",
+  "abas": [
+    "Resumo",
+    "Fontes e validação"
+  ],
+  "bytes_excel": 8386
+}
